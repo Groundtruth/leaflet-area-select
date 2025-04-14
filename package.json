@@ -72,5 +72,8 @@
     "tape-run": "^8.0.0",
     "uglify-js": "^3.0.10",
     "watchify": "^3.9.0"
-  }
+  },
+  "overrides": {
+    "electron": "^11.0.1"
+   }
 }
